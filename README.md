@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rudraksh Tyagi</h1>
 
-<h3 align="center">AI Engineer • Applied AI • Machine Learning</h3>
+<h3 align="center"> • Applied AI • Machine Learning</h3>
 
 <p align="center">
   I build practical AI systems across <b>Agentic AI</b>, <b>Generative AI</b>, <b>Computer Vision</b>, and <b>Production ML</b>.
@@ -59,9 +59,9 @@ AI agent reliability and observability platform for evaluating agent trajectorie
 
 
 
-<h3>🔹 FloodLab</h3>
+<h3>🔹 INDRA </h3>
 
-<a href="https://github.com/rudrakshtyagi1/Floodlab">
+<a href="https://github.com/rudrakshtyagi1/INDRA">
   <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
